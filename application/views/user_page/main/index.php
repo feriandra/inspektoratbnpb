@@ -22,7 +22,7 @@
                             <hr>
                             <p class="mb-0">Langkah ini penting untuk melindungi data pribadi Anda dari potensi penyalahgunaan.</p>
                             <div class="d-flex align-items-center justify-content-end">
-                                <a href="<?= base_url('account-profil') ?>" class="btn btn-primary waves-effect waves-light">Reset AKun</a>
+                                <a href="<?= base_url('account-profil') ?>" class="btn btn-primary waves-effect waves-light">Reset Akun</a>
                             </div>
                         </div>
 
