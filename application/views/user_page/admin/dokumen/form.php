@@ -34,7 +34,7 @@
                     </div>
 
                     <div class="mb-3">
-                        <label class="form-label">Apakah anda ingin menampilkan dokumen ini di hompage ?</label>
+                        <label class="form-label">Apakah anda ingin menampilkan dokumen ini di homepage ?</label>
                         <div class="square-switch">
                             <input type="checkbox" id="is_showing" switch="bool" name="is_showing" checked="">
                             <label for="is_showing" data-on-label="Yes" data-off-label="No"></label>
