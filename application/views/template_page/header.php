@@ -7,7 +7,7 @@
                 class="img-fluid" width="240"
                 srcset="<?= base_url(); ?>assets/public_page/img/alt_logo.png 1x, <?= base_url(); ?>assets/public_page/img/alt_logo.png 2x"
                 sizes="(max-width: 240px) 100vw, 240px">
-            <!-- <h1 class="sitename">BNSP</h1> -->
+            <!-- <h1 class="sitename">BNPB</h1> -->
         </a>
 
         <nav id="navmenu" class="navmenu">
