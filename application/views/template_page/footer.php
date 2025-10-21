@@ -28,9 +28,6 @@
                 <div>
                     © Copyright <strong><span>BADAN NASIONAL PENANGGULANGAN BENCANA 2025</span></strong>. All Rights Reserved
                 </div>
-                <div class="credits">
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                </div>
             </div>
 
             <div class="social-links order-first order-lg-last mb-3 mb-lg-0">
