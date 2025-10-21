@@ -266,7 +266,7 @@
                                 <i class="bi bi-clock"></i>
                                 <h2>Jam buka</h2>
                                 <p>Senin - Jum'at</p>
-                                <p>8 Pagi - 6 Sore</p>
+                                <p>08:00 WIB - 16:00 WIB</p>
                             </div>
                         </div><!-- End Info Item -->
 
